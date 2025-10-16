@@ -4,5 +4,5 @@ This course is basically divded into 3 parts 1st part is learning bash and the s
 ## __Learning Bash__
 ### _How to print Hello world! on bash_
 We can print Hello World! in Bash using 
-![Uploading Screenshot 2025-10-16 184605.png…]()
+> echo "Hello World!"
 
