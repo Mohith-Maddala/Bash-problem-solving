@@ -1,2 +1,4 @@
-# Bash-problem-solving
-Here i will keep the basic Bash notes and the solutions for Hacker rank bash problems
+# Course overview
+This course is basically divded into 3 parts 1st part is learning bash and the second part is Practing Bash with simple projects and 3rd part is solving problems of bash in hackerrank.com
+
+## __Learning Bash__
